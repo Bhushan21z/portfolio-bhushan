@@ -322,7 +322,7 @@ export default async function page() {
         "name": "URL Shortner",
         "techstack": "Django, SQLite, HTML, CSS, Javascript",
         "category": "All",
-        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+        "image": "https://imgtr.ee/images/2023/09/22/6701e80668d900896dc665c957102599.png",
         "links": {
           "code": "https://github.com/Bhushan21z/UrlShortnerre",
           "video": "",
