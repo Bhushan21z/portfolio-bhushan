@@ -69,6 +69,7 @@ const Hero = ({ mainData }: HeroProps) => {
                         className="w-fit text-sm md:text-base py-2 px-4 cursor-pointer flex items-center gap-1 rounded-md bg-violet-600 hover:bg-violet-700 dark:bg-violet-700 hover:dark:bg-violet-800 transition-colors group text-white"
                         href='https://drive.google.com/file/d/15yTXMu1fYpNqa1XWnPpQ_WcnN4qLkh9w/view?usp=drive_link'
                         target="_blank"
+                        rel="noreferrer"
                         // offset={-60}
                         // smooth={true}
                         // duration={500}
